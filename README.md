@@ -24,7 +24,7 @@ An advanced Python-based application that organizes files in a directory based o
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/<username>/file-organizer.git
+git clone https://github.com/Nikosane/Sortify.git
 cd file-organizer
 ```
 2.Install the required dependencies:
