@@ -1,0 +1,14 @@
+[
+    {
+        "src": "C:/Users/Example/Downloads/file1.txt",
+        "dst": "C:/Users/Example/Downloads/Text_Files/file1.txt"
+    },
+    {
+        "src": "C:/Users/Example/Downloads/image1.jpg",
+        "dst": "C:/Users/Example/Downloads/Images/image1.jpg"
+    },
+    {
+        "src": "C:/Users/Example/Documents/report.pdf",
+        "dst": "C:/Users/Example/Documents/PDF_Files/report.pdf"
+    }
+]
